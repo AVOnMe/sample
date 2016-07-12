@@ -1,8 +1,6 @@
 # 3 solutions
 
-http://avonme.org/lib/git/quiz/test1.php
-http://avonme.org/lib/git/quiz/test2.php
-http://avonme.org/lib/git/quiz/test3.php
+It takes about half minute for solution 1 to get the result.
 
 
 ## 1. Coin Sums
@@ -14,12 +12,17 @@ It is possible to make 2€ in the following way:
     1×1€ + 1×50ct + 2×20ct + 1×5ct + 1×2ct + 3×1ct
 
 **How many different ways can 2€ be made using any number of coins?**
+solution: http://avonme.org/lib/git/sample/test1.php
+source: test1.js
 
 ## 2. Six Snacks
 
 Six Snacks is a restaurant chain with 5 locations. Every day the local store manager has to send the amount of meals and the money they made to the server at the Six Snacks headquarters.
 In the folder `six_snacks/` you will find the kpi of the last 500 days.
 **Process the data and write down what you would tell each store manager.**
+
+solution: http://avonme.org/lib/git/sample/test2.php
+
 
 ## 3. Farmers Power Plants
 
@@ -64,3 +67,4 @@ Every hour the power plants send a HTTP(S) POST request to an url of your choice
         "hours_of_sunlight": 0.03
     }' "http://localhost/your-url"
 
+solution: http://avonme.org/lib/git/sample/test3.php
