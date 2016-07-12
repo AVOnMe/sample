@@ -1,6 +1,6 @@
 window.onload = function() { 
 
-var url = "http://avonme.org/lib/git/quiz/curltest.php";
+var url = "http://avonme.org/lib/git/sample/curltest.php";
 
 var obj = {
     "id": "987bksd9z8",
